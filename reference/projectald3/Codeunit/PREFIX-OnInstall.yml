@@ -1,0 +1,17 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"PREFIX OnInstall"'
+alId: ID 50100
+baseKind: Codeunit
+kind: Codeunit
+parent: 'N:Module::ProjectALD3::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Codeunit](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-codeunit-object)'
+objectProperties:
+- name: Subtype
+  value: Install
+  promoted: false
+commentId: O:Codeunit::PREFIX OnInstall
+name: '"PREFIX OnInstall"'
+uid: O:Codeunit::PREFIX_OnInstall

@@ -1,0 +1,17 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"PREFIX OnUpgrade"'
+alId: ID 50101
+baseKind: Codeunit
+kind: Codeunit
+parent: 'N:Module::ProjectALD3::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Codeunit](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-codeunit-object)'
+objectProperties:
+- name: Subtype
+  value: Upgrade
+  promoted: false
+commentId: O:Codeunit::PREFIX OnUpgrade
+name: '"PREFIX OnUpgrade"'
+uid: O:Codeunit::PREFIX_OnUpgrade

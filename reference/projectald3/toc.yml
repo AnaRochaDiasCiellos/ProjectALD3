@@ -1,0 +1,21 @@
+﻿items:
+- name: Overview
+  uid: N:Module::ProjectALD3
+- name: Reference
+  items:
+  - name: Codeunits
+    items:
+    - name: PREFIX Event Subscribers
+      uid: O:Codeunit::PREFIX_Event_Subscribers
+    - name: PREFIX OnInstall
+      uid: O:Codeunit::PREFIX_OnInstall
+    - name: PREFIX OnUpgrade
+      uid: O:Codeunit::PREFIX_OnUpgrade
+    - name: TM3 FixedAssetPriceCalc.
+      uid: O:Codeunit::TM3_FixedAssetPriceCalc#
+    - name: TM3 PriceAsset-FixedAsset
+      uid: O:Codeunit::TM3_PriceAsset-FixedAsset
+  - name: EnumExtensions
+    items:
+    - name: TM3 FixedAssetType
+      uid: O:EnumExtension::TM3_FixedAssetType

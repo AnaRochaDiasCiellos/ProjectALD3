@@ -1,3 +1,3 @@
-codeunit 50100 "PREFIX Some Test Library"
-{
-}
+// codeunit 50100 "PREFIX Some Test Library"
+// {
+// }
